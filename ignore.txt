@@ -1,0 +1,3 @@
+..\packages
+..\Food Pantry\bin
+*This should really minimize the size of the project when you need to transfer it. 
